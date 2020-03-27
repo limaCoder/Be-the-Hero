@@ -33,9 +33,9 @@ Extras:
 - Libs
   - [Express](https://expressjs.com/pt-br/)
   - [KnexJS](http://knexjs.org/)
-  - [React-Router-Dom] (https://www.npmjs.com/package/react-router-dom)
-  - [Axios] (https://github.com/axios/axios)
-  - [React-Icons] (https://github.com/react-icons/react-icons)
+  - [React-Router-Dom](https://www.npmjs.com/package/react-router-dom)
+  - [Axios](https://github.com/axios/axios)
+  - [React-Icons](https://github.com/react-icons/react-icons)
   
 - Ferramentas de Testes de APIs
   - [Insomnia](https://insomnia.rest)
